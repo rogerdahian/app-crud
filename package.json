@@ -2,7 +2,7 @@
   "name": "app-crud",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rogerdahian.github.io/ãpp-crud",
+  "homepage": "https://rogerdahian.github.io/app-crud",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "main -d dist"
+    "deploy": "gh-pages -d dist"
     
   },
   "dependencies": {
