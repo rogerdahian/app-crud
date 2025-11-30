@@ -2,7 +2,7 @@
   "name": "app-crud",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rogerdahian.github.io/app-crud",
+  "homepage": "https://rogerdahian.github.io/app-crud/",
   "type": "module",
   "scripts": {
     "dev": "vite",
