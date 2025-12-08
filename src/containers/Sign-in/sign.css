@@ -130,7 +130,7 @@
   color: #0230eb;
 }
 
-@media (max-width: 375px) {
+@media (min-width: 375px) and (max-width: 768px) {
   :root{
   /* Fonte*/
   --font-fm: "Montserrat", sans-serif;
@@ -157,5 +157,6 @@
   align-items: inherit;
   justify-content: inherit;
   background-color: white;
+  overflow: hidden;
 }
 }
