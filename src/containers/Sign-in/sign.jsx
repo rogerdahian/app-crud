@@ -14,11 +14,11 @@ function SignIn() {
         <div className="form-login">
           <form>
             <div className="input-login">
-              <label for="email">E-mail</label>
+              <label htmlFor="email">E-mail</label>
               <input type="text" placeholder="Digite seu e-mail" id="email" />
             </div>
             <div className="input-login">
-              <label for="password">Senha</label>
+              <label htmlFor="password">Senha</label>
               <input type="text" placeholder="Digite sua senha" id="password" />
             </div>
             <button className="btn-login" type="submit">
