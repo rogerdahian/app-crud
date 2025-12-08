@@ -146,7 +146,7 @@
   --gap-lg: 16px;
 
   /* Width Height*/
-  --width-lg: 375px;
+  --width-lg: 100%;
   --btn-height-lg:40px;
 
    
@@ -157,6 +157,6 @@
   align-items: inherit;
   justify-content: inherit;
   background-color: white;
-  overflow: hidden;
+  
 }
 }
